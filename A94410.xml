@@ -1,0 +1,834 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To His Excellency the Lord Fleetwood, and the general council of officers of the armies of England, Scotland, and Ireland. The humble address of the inferiour officers and souldiers of the late Lord Pride's regiment.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94410</idno>
+            <idno type="STC">Wing T1352</idno>
+            <idno type="STC">Thomason E974_5</idno>
+            <idno type="STC">ESTC R207675</idno>
+            <idno type="EEBO-CITATION">99866713</idno>
+            <idno type="PROQUEST">99866713</idno>
+            <idno type="VID">118997</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94410)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118997)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 145:E974[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To His Excellency the Lord Fleetwood, and the general council of officers of the armies of England, Scotland, and Ireland. The humble address of the inferiour officers and souldiers of the late Lord Pride's regiment.</title>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. Lock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An address of loyalty to the Commonwealth and opposition to the Royalist cause -- Thomason Cat.</note>
+                  <note>Includes 9 pages of names.</note>
+                  <note>The verso of second leaf is numbered 1.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Aprill 8th"; "April. 8".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and Government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118997:1" rendition="simple:additions"/>
+            <p>TO HIS EXCELLENCY The Lord <hi>Fleetwood,</hi> AND THE General Council of <hi>OFFICERS</hi> OF THE ARMIES OF <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>The Humble Addreſs of the Inferiour Officers and Souldiers of the late Lord</hi> Pride's <hi>Regiment.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. Lock,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:118997:2"/>
+            <pb facs="tcp:118997:2"/>
+            <p>VVE having peruſed a Paper of the ſixt of this inſtant <hi>April,</hi> ſet forth by the Order of the general Council of the Officers of the Armyes of <hi>England, Scotland, &amp; Ire<g ref="char:EOLhyphen"/>land,</hi> wherein we find the good old cauſe, which hath coſt the people of theſe nations ſo much treaſure and blood, in the proſecution of the war againſt the late King, to be again aſſerted.</p>
+            <p>For which mercy we hope thoſe amongſt us that fear the Lord, ſhall ever praiſe his Name.</p>
+            <p>And becauſe our couſciences bears us witneſs that we dipt our hands in blood in that cauſe, &amp; the blood of many thouſands hath been ſhed by our immediate hands, under your commands in that Quarrel, we are amazed to think of the account that we muſt ren<g ref="char:EOLhyphen"/>der at the great and terrible day of the lord, if by our ſilence the Freedoms of theſe Nations (ſo much conten<g ref="char:EOLhyphen"/>ded for) ſhould be loft &amp; returned into the hands of that Family which God hath ſo eminently appeared againſt in his many ſignal providences, little leſs then miracles.</p>
+            <p>And therefore in all humility do declare, That we are reſolved to ſtand by you in the farther proſecution of that good old cauſe which you mention in the third page of your repreſentation &amp; Petition to his High<g ref="char:EOLhyphen"/>neſs, and we ſhal not think our lives too dear to hazard as formerly, if that old cavalier-party ſhould appear againſt you, or any other party which ſhall endeavour to bring us into the like thraldom and bondage.</p>
+            <div type="list_of_signatories">
+               <pb n="1" facs="tcp:118997:3"/>
+               <list>
+                  <item>SAmuel Muntford</item>
+                  <item>Thomas Dennis</item>
+                  <item>John Taylor</item>
+                  <item>John Mathes</item>
+                  <item>Thomas Lane</item>
+                  <item>Robert Teall</item>
+                  <item>William Bowes</item>
+                  <item>Ralph Yates</item>
+                  <item>Matthew Hemmington</item>
+                  <item>Richard Andrews</item>
+                  <item>Nichaolas Mattockes</item>
+                  <item>Andrew Lock</item>
+                  <item>John Tayor</item>
+                  <item>John Morris</item>
+                  <item>John Roaket</item>
+                  <item>Henry Quaintance</item>
+                  <item>John Apelbey</item>
+                  <item>Thomas Floy</item>
+                  <item>David Watkins</item>
+                  <item>William Medcaf</item>
+                  <item>Robert Henley</item>
+                  <item>Thomas Groves</item>
+                  <item>John Ferebey</item>
+                  <item>John Punfeild</item>
+                  <item>Thomas Faltrop</item>
+                  <item>John Barker</item>
+                  <item>William Miles</item>
+                  <item>Thomas Prator</item>
+                  <item>Joſhuah Hodgkins</item>
+                  <item>Evan Jones</item>
+                  <item>John Atherton</item>
+                  <item>Francis Cooper</item>
+                  <item>Jer. Johnſon</item>
+                  <item>Matthew Bakon</item>
+                  <item>Robert Wilſon</item>
+                  <item>Matthew Criſmus</item>
+                  <item>Robert Hadock</item>
+                  <item>Iohn Smith</item>
+                  <item>William Bentley</item>
+                  <item>Chriſtopher Baker</item>
+                  <item>Barnard Groves</item>
+                  <item>William Burnel</item>
+                  <item>Morgan Vahon</item>
+                  <item>Peter Keneday</item>
+                  <item>Iames Murrin</item>
+                  <item>Henry Ruſh</item>
+                  <item>William Bowcher</item>
+                  <item>Francis Wilmot</item>
+                  <item>Richard VVillon</item>
+                  <item>Richard Colbuch</item>
+                  <item>VVilliam Eliot</item>
+                  <item>Philemon Pike</item>
+                  <item>Francis Armſtrong</item>
+                  <item>Daniel Haley</item>
+                  <item>VVilliam Lawley</item>
+                  <item>Cornelius Man</item>
+                  <item>Richard Collier</item>
+                  <item>Iohn Pounes</item>
+                  <item>Francis Shelton</item>
+                  <item>Thomas VVilliams</item>
+                  <item>Iohn Micklefeild</item>
+                  <item>Iſrael Shaw</item>
+                  <item>Thomas Weſt</item>
+                  <item>Thomas VVhite</item>
+                  <item>Edward Marſhal</item>
+                  <item>VVilliam Micklefeild</item>
+                  <item>George Carter</item>
+                  <item>Iohn Chewn,</item>
+                  <item>VVilliam Merick</item>
+                  <item>Edward Mantel</item>
+                  <pb facs="tcp:118997:3"/>
+                  <item>Jonas Atkins</item>
+                  <item>William Spakman</item>
+                  <item>Laurnce Eades</item>
+                  <item>Robert Rich</item>
+                  <item>Samuel Jefferyes</item>
+                  <item>Hugh Godſall</item>
+                  <item>William Alford</item>
+                  <item>Edward Pinck</item>
+                  <item>Edward Tuppler</item>
+                  <item>Charles Winferdd</item>
+                  <item>William Sly</item>
+                  <item>Francis Willſan</item>
+                  <item>John Ferne</item>
+                  <item>George Diſon</item>
+                  <item>Abraham Heward</item>
+                  <item>Robert Plumer</item>
+                  <item>Francis Robardes</item>
+                  <item>Joſeph VVithers</item>
+                  <item>Charles Morris</item>
+                  <item>Iohn Coope</item>
+                  <item>Iohn Sharp</item>
+                  <item>Richard Leweck</item>
+                  <item>John Brice</item>
+                  <item>VVilliam Midelton</item>
+                  <item>VVilliam Marten</item>
+                  <item>Richard Lewes</item>
+                  <item>Richard Philips</item>
+                  <item>Robert Serplis</item>
+                  <item>Thomas Hichcock</item>
+                  <item>Iohn Young</item>
+                  <item>Edward Barrat</item>
+                  <item>Thomas Sanford</item>
+                  <item>Edward Taylor</item>
+                  <item>Edward Wolley</item>
+                  <item>John Bray</item>
+                  <item>Nicholas Beſomver</item>
+                  <item>Humphrey Anwen</item>
+                  <item>Thomas White</item>
+                  <item>Thomas Bedford</item>
+                  <item>Henry Waterer</item>
+                  <item>Richard Gooden</item>
+                  <item>John Jackſon</item>
+                  <item>Thomas Egelſo</item>
+                  <item>Robert Suckett</item>
+                  <item>Robert Robinſon</item>
+                  <item>William Wright</item>
+                  <item>Thomas Hudelſtone</item>
+                  <item>Thomas Smith</item>
+                  <item>Robert Wrongerey</item>
+                  <item>Moſes Naſh</item>
+                  <item>Michael Hall</item>
+                  <item>Richard Hall</item>
+                  <item>Richard Taylor</item>
+                  <item>William Beſell</item>
+                  <item>Thomas Rogers</item>
+                  <item>Henry Wickes</item>
+                  <item>Robert Davis</item>
+                  <item>Samuel Jefcott</item>
+                  <item>Philip Williams</item>
+                  <item>Thomas Sentall</item>
+                  <item>Thomas Britten</item>
+                  <item>William Blackman</item>
+                  <item>VVilliam Layton.</item>
+                  <item>Thomas Vaderwood</item>
+                  <item>John Gilburd</item>
+                  <item>Henry Robardes</item>
+                  <item>John Smith</item>
+                  <item>Abraham Bigges</item>
+                  <item>John Bell</item>
+                  <item>Thomas Blanford</item>
+                  <item>Grifen Davis</item>
+                  <item>Edward VVilliams</item>
+                  <item>VVilliam Averey</item>
+                  <item>John Hunerlone</item>
+                  <item>VVilliam Hutton</item>
+                  <item>John VVilliams</item>
+                  <pb facs="tcp:118997:4"/>
+                  <item>VVilliam VVright</item>
+                  <item>John Lathum</item>
+                  <item>Thomas Lannee</item>
+                  <item>Thomas Ball</item>
+                  <item>Charles Purnell</item>
+                  <item>Thomas Underwood</item>
+                  <item>Edward Triplo</item>
+                  <item>John Larden</item>
+                  <item>Meredith Jones</item>
+                  <item>George Clarke</item>
+                  <item>Richard Tomſon</item>
+                  <item>VVilliam Elmes</item>
+                  <item>Thomas Earpe</item>
+                  <item>John Lewes</item>
+                  <item>Edward Gallor</item>
+                  <item>Robert Maggon</item>
+                  <item>William Heſtor</item>
+                  <item>George Melborn</item>
+                  <item>Thomas Kilburt</item>
+                  <item>John Yoarke</item>
+                  <item>Thomas Ricley</item>
+                  <item>Thomas Haris</item>
+                  <item>Silveſter Core</item>
+                  <item>Jehu Worſley</item>
+                  <item>Roger Jones</item>
+                  <item>John Muncke</item>
+                  <item>Ralph Gibbons</item>
+                  <item>Francis Towneſend</item>
+                  <item>John Furſard</item>
+                  <item>Thomas Everſden</item>
+                  <item>George Brown</item>
+                  <item>John Wigmore</item>
+                  <item>William Dacombe</item>
+                  <item>Richard Shawe</item>
+                  <item>Edward Warren</item>
+                  <item>William Eavons</item>
+                  <item>Thomas Foulkes</item>
+                  <item>George Disbourough</item>
+                  <item>John Hill</item>
+                  <item>Arthur Lockley</item>
+                  <item>Thomas Lewelyon</item>
+                  <item>John Harden</item>
+                  <item>Thomas Drawaten</item>
+                  <item>Edward Meliſhope</item>
+                  <item>Thomas Gofe</item>
+                  <item>Philip Oſmom</item>
+                  <item>James Cotorum</item>
+                  <item>Thomas Moulder</item>
+                  <item>James Leme</item>
+                  <item>Thomas Greſingham</item>
+                  <item>John Thayer</item>
+                  <item>Ambroſe Enſar</item>
+                  <item>James Staines</item>
+                  <item>Thomas Weſton</item>
+                  <item>Edmond Jaquis</item>
+                  <item>Michael Hary</item>
+                  <item>John Morgain</item>
+                  <item>Edward Williams</item>
+                  <item>William Clarke</item>
+                  <item>John Fiſher</item>
+                  <item>Richard Jones</item>
+                  <item>Joſeph Porterton</item>
+                  <item>Robert Maneymore</item>
+                  <item>James Eley</item>
+                  <item>Richard Webb</item>
+                  <item>Thomas Idell Tho. Shelwel</item>
+                  <item>Thomas Whiting</item>
+                  <item>Giles Harwood</item>
+                  <item>Henry Peacke</item>
+                  <item>John Brice</item>
+                  <item>Michael Willkinſon</item>
+                  <item>Edward Birim</item>
+                  <item>Hugh Birim</item>
+                  <item>William Wates</item>
+                  <item>William Cox</item>
+                  <item>John Prentis</item>
+                  <pb facs="tcp:118997:4"/>
+                  <item>Iohn Preſton</item>
+                  <item>Ralph Spenſley</item>
+                  <item>Iohn Harlin</item>
+                  <item>Iames Cook</item>
+                  <item>VVilliam Priſon</item>
+                  <item>Iohn Bowman</item>
+                  <item>VVilliam Poulter</item>
+                  <item>Anthony Engliſh</item>
+                  <item>Henry Iones</item>
+                  <item>VVilliam VVright</item>
+                  <item>George Hether</item>
+                  <item>Robert Lee</item>
+                  <item>Thomas Ricketis</item>
+                  <item>Nathaniel Turner</item>
+                  <item>Richard Iones</item>
+                  <item>Hen. Axwry</item>
+                  <item>Iohn Cheney</item>
+                  <item>David Harris</item>
+                  <item>Henry Brockley</item>
+                  <item>Aaron Flud</item>
+                  <item>Robert Butler</item>
+                  <item>Thomas Hatfield</item>
+                  <item>Cornelius VVilliams</item>
+                  <item>Francis Starlin</item>
+                  <item>Valentine VVild</item>
+                  <item>Edward Stuckey</item>
+                  <item>Oliver Peney</item>
+                  <item>Iohn Noare</item>
+                  <item>Arthur Fogeſon</item>
+                  <item>Thomas Price,</item>
+                  <item>VValter Thomas</item>
+                  <item>VVilliam Freeman</item>
+                  <item>Iohn Iames</item>
+                  <item>Hen. Taylor,</item>
+                  <item>Iohn Price</item>
+                  <item>Robert Preſton</item>
+                  <item>Ienkins Earims</item>
+                  <item>Humphrey Purſe</item>
+                  <item>Arthur Fairfax</item>
+                  <item>Nicholas Croſs</item>
+                  <item>Edward Holiloway</item>
+                  <item>Stephen Hodges</item>
+                  <item>Stephen Palmer</item>
+                  <item>Iohn Lee</item>
+                  <item>Ie. Hill</item>
+                  <item>Ier. Cheſteney</item>
+                  <item>VVilliam Lilberey</item>
+                  <item>Iohn Leverſuch</item>
+                  <item>Francis Cool</item>
+                  <item>VVilliam Badum</item>
+                  <item>VVilliam Harris</item>
+                  <item>VVilliam Thraves</item>
+                  <item>Iohn Kenard</item>
+                  <item>Thomas Hear,</item>
+                  <item>Iohn Plant</item>
+                  <item>Stev. Engliſh</item>
+                  <item>Henry Tedmon</item>
+                  <item>Edward Sawyer</item>
+                  <item>Daniel Smith</item>
+                  <item>Thomas Mabley</item>
+                  <item>Richard Cran</item>
+                  <item>William Edwards</item>
+                  <item>Humphrey Smith</item>
+                  <item>Edward Tyler</item>
+                  <item>John Chick</item>
+                  <item>John Vencene</item>
+                  <item>John Shawton</item>
+                  <item>William Crandes</item>
+                  <item>Richard Knight</item>
+                  <item>Thomas Holmes</item>
+                  <item>Humphrey Dicks</item>
+                  <item>Thomas Geſt</item>
+                  <item>Ambroſe Wilmot</item>
+                  <item>Edward Big</item>
+                  <item>Robert Wilſon</item>
+                  <item>Thomas Elce</item>
+                  <pb facs="tcp:118997:5"/>
+                  <item>David VVatkint</item>
+                  <item>VVilliam Care</item>
+                  <item>Arohb, More</item>
+                  <item>David Goſtick</item>
+                  <item>VVilliam Cook</item>
+                  <item>Iand. VVall</item>
+                  <item>Iohn Berdbandbye</item>
+                  <item>Iohn Champion</item>
+                  <item>Henry Certon</item>
+                  <item>John Hutchens</item>
+                  <item>William Church</item>
+                  <item>Humphrey Grimes</item>
+                  <item>Chriſtopher Auſtin</item>
+                  <item>Richard Arley</item>
+                  <item>William Brinknel</item>
+                  <item>Daniel Brigges</item>
+                  <item>William Harden</item>
+                  <item>Robert Wooſley</item>
+                  <item>Geogre Smith</item>
+                  <item>Thomas Hallobred</item>
+                  <item>James Daniel</item>
+                  <item>Edward Maſh</item>
+                  <item>Richard Placket</item>
+                  <item>Robert Taylor</item>
+                  <item>William Gough</item>
+                  <item>Thomas Atherton</item>
+                  <item>John Burd</item>
+                  <item>John Gallyumfon</item>
+                  <item>Humphrey Pigon</item>
+                  <item>John Whitehead</item>
+                  <item>Iohn Blunt</item>
+                  <item>Stephen Smith</item>
+                  <item>Chriſtopher Semper</item>
+                  <item>John Holmes</item>
+                  <item>John Rook</item>
+                  <item>Philip Cooper</item>
+                  <item>William Underkill</item>
+                  <item>Edward Shene</item>
+                  <item>Thomas Murter</item>
+                  <item>Roger Stooke</item>
+                  <item>Thomas Lawrence</item>
+                  <item>William Wheeler</item>
+                  <item>Rand: Leach</item>
+                  <item>George Boalton</item>
+                  <item>Iohn William</item>
+                  <item>Iohn Frances</item>
+                  <item>Thomas Cooper</item>
+                  <item>Edward Brethwet</item>
+                  <item>Brian Daniel</item>
+                  <item>Nicholas Hunt</item>
+                  <item>Thomas Mayam</item>
+                  <item>Daniel Stone</item>
+                  <item>Ioſeph Fiſher</item>
+                  <item>William Wood</item>
+                  <item>Iohn Hilburn</item>
+                  <item>Iohn Fonſon</item>
+                  <item>Iipio. Whiting</item>
+                  <item>George Smithewick</item>
+                  <item>John Mallard</item>
+                  <item>Giles Abutt</item>
+                  <item>Willam Lucas</item>
+                  <item>Henry Willis</item>
+                  <item>Humphrey Willabe</item>
+                  <item>John Cook</item>
+                  <item>Richard Wintworth</item>
+                  <item>Benjamin Iohnſon</item>
+                  <item>Mark Deale</item>
+                  <item>William Carr</item>
+                  <item>William Harne</item>
+                  <item>William Kemp</item>
+                  <item>William Harris</item>
+                  <item>John Armitage</item>
+                  <item>John Hill</item>
+                  <item>Thomas Fuller</item>
+                  <pb facs="tcp:118997:5"/>
+                  <item>Richard VVatſoa</item>
+                  <item>Richard Parſons</item>
+                  <item>Richard Gortley</item>
+                  <item>Andrew Ienings</item>
+                  <item>Iohn VVhitt</item>
+                  <item>Iohn Lockwood</item>
+                  <item>John Robſon</item>
+                  <item>John Holben</item>
+                  <item>Robert Skinner</item>
+                  <item>Thomas Apelby</item>
+                  <item>Thomas Auſtin</item>
+                  <item>Thomas Gilks</item>
+                  <item>Thomas Maſhman</item>
+                  <item>William Buſhip</item>
+                  <item>John Sell</item>
+                  <item>David Howel</item>
+                  <item>VVilliam Bowels</item>
+                  <item>Robert Dickſon</item>
+                  <item>George Howard</item>
+                  <item>James Aſhton</item>
+                  <item>Jenkin Lewes</item>
+                  <item>Chriſtopher Roberts</item>
+                  <item>Robert Coulter</item>
+                  <item>VValter Cordrow</item>
+                  <item>Charles Vine</item>
+                  <item>Robert VVebſter</item>
+                  <item>Robert Shilcock</item>
+                  <item>Peter Nicolſon</item>
+                  <item>Iames Archpool</item>
+                  <item>John Aſque</item>
+                  <item>VVilliam Ireton</item>
+                  <item>John Simſon</item>
+                  <item>Robert Harper</item>
+                  <item>Edvvard Hutſon</item>
+                  <item>John Harris</item>
+                  <item>Obadiah Abbut</item>
+                  <item>Robert Pirtanbat</item>
+                  <item>Francis Smithſon</item>
+                  <item>Joſeph Pery</item>
+                  <item>Thomas Kemp</item>
+                  <item>Thomas Burch</item>
+                  <item>Chriſtopher Brimſdon</item>
+                  <item>Richard Davers.</item>
+                  <item>Thomas Ginn</item>
+                  <item>Thomas Marris</item>
+                  <item>John Bright</item>
+                  <item>Thomas Smaldridge</item>
+                  <item>Thomas Beverley</item>
+                  <item>Thomas Welch</item>
+                  <item>Philip Rod</item>
+                  <item>William Gorney</item>
+                  <item>Matthew Webber</item>
+                  <item>Nathaniel Eagleton</item>
+                  <item>William Nicholes</item>
+                  <item>Thomas Fearman</item>
+                  <item>James Dodd</item>
+                  <item>Robert Hoult</item>
+                  <item>Abraham Hemern</item>
+                  <item>Laurence Whaley</item>
+                  <item>Daniel Daves</item>
+                  <item>Thomas Griſith</item>
+                  <item>Mark Smail</item>
+                  <item>Hugh Worth</item>
+                  <item>Peter Andrews</item>
+                  <item>Stephen Cocket</item>
+                  <item>John Jenings</item>
+                  <item>Robert Iones</item>
+                  <item>Thomas Towers</item>
+                  <item>Richard Wilkſon</item>
+                  <item>John Maſſon</item>
+                  <item>Richard Mattheus</item>
+                  <item>Rice Renway</item>
+                  <item>Roger Silveſter</item>
+                  <item>John Rumball</item>
+                  <item>Michael Jacob</item>
+                  <item>Peter Earley</item>
+                  <item>John Bowles</item>
+                  <item>Robert Hood</item>
+                  <pb facs="tcp:118997:6"/>
+                  <item>Mark Winn</item>
+                  <item>Rice Powel</item>
+                  <item>John Payne</item>
+                  <item>Alexander Tompſon</item>
+                  <item>Henry Bonton</item>
+                  <item>Naho Buſhel</item>
+                  <item>Hugh Sealey</item>
+                  <item>Kobert Bewley</item>
+                  <item>Ralph Greey</item>
+                  <item>William Stowel</item>
+                  <item>Francis Mathews</item>
+                  <item>Iames Price</item>
+                  <item>Thomas Knight</item>
+                  <item>William Poanter</item>
+                  <item>Francis Dawſon</item>
+                  <item>Iames Ienkins</item>
+                  <item>John Nicoles</item>
+                  <item>Richard Lake</item>
+                  <item>Edward Sampſon</item>
+                  <item>Iohn Hart</item>
+                  <item>Iohn Hughs</item>
+                  <item>Thomas Barlow</item>
+                  <item>Thomas Clark</item>
+                  <item>John Hatchet</item>
+                  <item>Iames Burch</item>
+                  <item>Sam. Cheebe</item>
+                  <item>Lanc. Farlan</item>
+                  <item>Ia. Iefferies</item>
+                  <item>Henry Benger</item>
+                  <item>Richard Lamkin</item>
+                  <item>George Miltan</item>
+                  <item>Thomas Iones</item>
+                  <item>William Thomas</item>
+                  <item>George Thomſon</item>
+                  <item>Richard Gould</item>
+                  <item>Iohn Gregory</item>
+                  <item>Rice Loyd</item>
+                  <item>Richard Knight</item>
+                  <item>Thomas Stone</item>
+                  <item>Nicholas Fartnel</item>
+                  <item>Martin Eaton</item>
+                  <item>Henry Blew</item>
+                  <item>Jeffrey Eaton</item>
+                  <item>John Loyd</item>
+                  <item>Abraham Henly</item>
+                  <item>Richard Griffits</item>
+                  <item>VVilliam Simes</item>
+                  <item>John Knocks</item>
+                  <item>VVilliam Parber</item>
+                  <item>John Kittle</item>
+                  <item>Edward Francis</item>
+                  <item>Michael Page</item>
+                  <item>Rice Evens</item>
+                  <item>Henry Hacblet</item>
+                  <item>John VVebb</item>
+                  <item>Robert Sandiers</item>
+                  <item>Edward Price</item>
+                  <item>James Harbart</item>
+                  <item>William Williams</item>
+                  <item>William Field</item>
+                  <item>Chriſtopher Waſhford</item>
+                  <item>James Fulwood</item>
+                  <item>Iohn Teſtone</item>
+                  <item>Chriſtopher Cornelies</item>
+                  <item>Iohn Pitt</item>
+                  <item>Iohn Hamon</item>
+                  <item>Henry Tirckner</item>
+                  <item>Peter Mather</item>
+                  <item>Henry Milton</item>
+                  <item>Thomas Wilſon</item>
+                  <item>Iohn Cowel</item>
+                  <item>Robert Hews</item>
+                  <item>George Silveſter</item>
+                  <item>Robert Cookman</item>
+                  <item>Thomas Grey</item>
+                  <item>Thomas Craſmaſſe</item>
+                  <pb facs="tcp:118997:6"/>
+                  <item>Edward Bate</item>
+                  <item>William Whithwood</item>
+                  <item>Iohn Thomas</item>
+                  <item>Iohn Samford</item>
+                  <item>Henry Vaughan</item>
+                  <item>Richard Warrin</item>
+                  <item>Richard Baſſe</item>
+                  <item>Edward Williams</item>
+                  <item>Thomas Richards</item>
+                  <item>Thomas Bingion</item>
+                  <item>William Compton</item>
+                  <item>Chriſtopher Ieſteries.</item>
+                  <item>Richard Maryat</item>
+                  <item>Thomas Facbrel</item>
+                  <item>Iohn Woodfine</item>
+                  <item>William Golby</item>
+                  <item>Edward Green</item>
+                  <item>Richard Durnel</item>
+                  <item>Robert Ray</item>
+                  <item>George Knight</item>
+                  <item>Robert Poop</item>
+                  <item>Iohn Banding</item>
+                  <item>Thomas Bucbredge</item>
+                  <item>Iames Hopper</item>
+                  <item>Iohn Rich</item>
+                  <item>Ieremiah Reſdon</item>
+                  <item>Iames Ives</item>
+                  <item>Simon Guarton</item>
+                  <item>Robert Larramore</item>
+                  <item>Robert Travit</item>
+                  <item>Iohn Hudſon</item>
+                  <item>Thomas Compton</item>
+                  <item>Thomas Iones</item>
+                  <item>Iohn Crayly</item>
+                  <item>Moſes Wit,</item>
+                  <item>Samuel Tame</item>
+                  <item>William Body</item>
+                  <item>Val. Hands</item>
+                  <item>William Grimes</item>
+                  <item>Philip Davies</item>
+                  <item>William Heigho</item>
+                  <item>Richard Davies</item>
+                  <item>Iohn Eglefield</item>
+                  <item>Francis Traſy</item>
+                  <item>Thomas Clenſter</item>
+                  <item>William Roberts</item>
+                  <item>William Garfield</item>
+                  <item>Thomas Benfield</item>
+                  <item>Robert Edes</item>
+                  <item>Iohn Francling</item>
+                  <item>William Voghon</item>
+                  <item>Thomas Edes</item>
+                  <item>Iohn Hull</item>
+                  <item>William Cook</item>
+                  <item>Iohn Foulor</item>
+                  <item>Philip Weaver</item>
+                  <item>Iames Curch</item>
+                  <item>Iohn Lawſon</item>
+                  <item>Simon Whitt</item>
+                  <item>Henry Remy</item>
+                  <item>William Avaries</item>
+                  <item>Criſtopher Hollowey</item>
+                  <item>William Leaves</item>
+                  <item>Iohn Dogen</item>
+                  <item>Iohn Weſt</item>
+                  <item>Francis Edaſell</item>
+                  <item>Paul Savaidg</item>
+                  <item>Thomas Nedleton</item>
+                  <item>George Tider</item>
+                  <item>George Smith</item>
+                  <item>Iohn Williams</item>
+                  <item>Thomas Davis</item>
+                  <item>Peter Sharoune</item>
+                  <item>Daniel Renellds</item>
+                  <item>Thomas Cane</item>
+                  <item>Simon Poore</item>
+                  <item>Edward Skiner</item>
+                  <pb facs="tcp:118997:7"/>
+                  <item>Oliver Orton</item>
+                  <item>Iames Grenſife</item>
+                  <item>George Pyott</item>
+                  <item>Iames Rentmor</item>
+                  <item>Iames Denſty</item>
+                  <item>Robert Philips</item>
+                  <item>Henry Perſons</item>
+                  <item>Rowland Thomas</item>
+                  <item>William Dowſell</item>
+                  <item>Robert Harſlow</item>
+                  <item>George Olliver</item>
+                  <item>Edward Thomas</item>
+                  <item>Thomas Waterton</item>
+                  <item>Benjamin Mullens</item>
+                  <item>David Dore</item>
+                  <item>Daniel Ganey</item>
+                  <item>Francis Iones</item>
+                  <item>Francis Norman</item>
+                  <item>Francis Denam</item>
+                  <item>Francis Brookes</item>
+                  <item>Henry Bedworth</item>
+                  <item>Henry Hall</item>
+                  <item>Henry Snow</item>
+                  <item>Henry Leeb</item>
+                  <item>Henry Shephard</item>
+                  <item>Henry Reed</item>
+                  <item>Henry Vaughan</item>
+                  <item>Humphrey Whicherly</item>
+                  <item>Iohn Marcer</item>
+                  <item>Iohn Baily</item>
+                  <item>Iohn Iankens</item>
+                  <item>Iohn Barber</item>
+                  <item>Iohn Sherbrocke</item>
+                  <item>Iohn Menement</item>
+                  <item>Iohn Drait,</item>
+                  <item>Iohn Robiſon</item>
+                  <item>Iohn Rickett</item>
+                  <item>Iohn Preſhard</item>
+                  <item>Iohn Nute</item>
+                  <item>Iohn Harris</item>
+                  <item>Ionas Dell</item>
+                  <item>Iames Brutt</item>
+                  <item>Iames Bayly</item>
+                  <item>Iſaac Richman</item>
+                  <item>Nich. Clarke</item>
+                  <item>Nich. Bell</item>
+                  <item>Peter Goff</item>
+                  <item>Rice Perry</item>
+                  <item>Richard Price</item>
+                  <item>Richard Smith</item>
+                  <item>Richard Stockly</item>
+                  <item>Richard Skeit</item>
+                  <item>Richard Hanat</item>
+                  <item>Richard Cantwell</item>
+                  <item>Richard Thomſon</item>
+                  <item>Robert Wright</item>
+                  <item>Robert Carr</item>
+                  <item>Robert Wilſon</item>
+                  <item>Thomas Roch</item>
+                  <item>Thomas Morgan</item>
+                  <item>Thomas Davies</item>
+                  <item>Thomas Porter</item>
+                  <item>Thomas Machitt</item>
+                  <item>Thomas Bearns</item>
+                  <item>Thomas Fording</item>
+                  <item>William Flicher</item>
+                  <item>William Lumbor</item>
+                  <item>William Palton</item>
+                  <item>William Wood</item>
+                  <item>William Biven</item>
+                  <item>William Thomſon</item>
+                  <item>William Brown</item>
+                  <item>William Smith</item>
+                  <item>Eph. Marſhel</item>
+                  <item>Samuel Dublem</item>
+                  <item>Gilbert Brown</item>
+                  <item>Iohn Smithſon</item>
+                  <item>Iohn Iames</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118997:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
